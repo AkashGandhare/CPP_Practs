@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1602672156 source:d:\codeblocks_projects\cpp_inheritance\main.cpp
+	<iostream>
+	"animal.h"
+	"dog.h"
+
+1602671908 source:d:\codeblocks_projects\cpp_inheritance\animal.cpp
+	<iostream>
+	"animal.h"
+
+1602671933 d:\codeblocks_projects\cpp_inheritance\animal.h
+	<iostream>
+
+1602671037 source:d:\codeblocks_projects\cpp_inheritance\dog.cpp
+	<iostream>
+	"dog.h"
+
+1602671794 d:\codeblocks_projects\cpp_inheritance\dog.h
+	<iostream>
+	"animal.h"
+
